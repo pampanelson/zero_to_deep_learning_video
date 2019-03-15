@@ -1,3 +1,8 @@
+make this course code running on colab lively .
+1.change path of data file to url within github raw file .
+
+
+
 # Zero to Deep Learning® Video Course
 
 Welcome to the Zero to Deep Learning® Video Course repository.
